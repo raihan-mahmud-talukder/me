@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 3rem;
+}
+
+nav {
+    background: #418C11;
+    padding: 0 !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: fixed !important;
+    width: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.day {
+    color: white;
+}
+
+footer {
+    background: #addfad;
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    height: 5vh;
+}
+
+section {
+    background: lightgray;
+    height: 95vh;
+    color: white;
+}
+
+section p {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+
+section ul {
+    color: black;
+    text-align: center;
+    width: 05%;
+    margin: auto;
+}
+
+.intro {
+    background: grey;
+    border: 3px solid white;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    padding: 2rem;
+    text-transform: uppercase;
+}
+
+iframe {
+    width: 30vmax;
+    height: 30vmax;
+    margin: 2vmax
+}
