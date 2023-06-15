@@ -55,3 +55,8 @@ document.getElementById("mission").onclick = function () {
     $("#root").load("component/mission.html")
 }
 
+document.getElementById("hire").onclick = function () {
+    document.title = 'Hire'
+    $("#root").load("component/hire.html")
+}
+
